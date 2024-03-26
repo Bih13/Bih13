@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bih13
+- 👋 Hi, I’m Bih Nnadiekwe
 - 👀 I’m interested in Data Analyst/Business Analyst
 - 🌱 I’m passionate about using insights from data to help organizations make inform decisions
 - 💞️ I’m currently developing skills in SQL, Python, and data visualization
