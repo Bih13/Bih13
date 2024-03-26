@@ -4,7 +4,7 @@
 - 💞️ I’m currently developing skills in SQL, Python, and data visualization
 - 📫 You can reach me via email/linkedln:sylvia.awasom@gmail.com/linkedin.com/in/bih-awasom-8b30141b7
 - 😄 Pronouns: SHE, HER
-- ⚡ Fun fact: 
+- ⚡ I'm open to collaborate on data analysis projects, volunteer or otherwise
 
 <!---
 Bih13/Bih13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
