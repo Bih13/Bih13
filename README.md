@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Bih Nnadiekwe
-- 👀 I’m interested in Data Analyst/Business Analyst
-- 🌱 I’m passionate about using insights from data to help organizations make inform decisions
-- 💞️ I’m currently developing skills in SQL, Python, and data visualization
-- 📫 You can reach me via email/linkedln:sylvia.awasom@gmail.com/linkedin.com/in/bih-awasom-8b30141b7
-- 😄 Pronouns: SHE, HER
-- ⚡ I'm open to collaborate on data analysis projects, volunteer or otherwise
+- 👀 I’m a budding Data/Business Analyst
+- 🌱 I love using insights from data to help organizations make informed decisions
+- 💞️ I have excellent skills in Excel, SQL, Python, Power BI and Tableau
+- 📫 You can reach me via: sylvia.awasom@gmail.com or linkedin.com/in/bih-awasom-8b30141b7
+- 😄 Pronouns: she, her
+- ⚡ I'm open to collaborate/volunteer on data analysis projects
+- 👀 I'm available for data/business analysis jobs
 
 <!---
 Bih13/Bih13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
